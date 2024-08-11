@@ -1,4 +1,4 @@
-LE MODULE `discord-backup` est à moitié bugué, voici son correctif (Androz, fais ton taff stp)
+Le mododule `discord-backup` est à moitié bugué, voici son correctif (Androz, fais ton taff stp)
 
 POUR MODIFIER LE MODULE, `node_modules` => `discord-backup`
 
